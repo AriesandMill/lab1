@@ -1,2 +1,2 @@
-# lab1
-for program design 2
+g++ -o B B.cpp
+./B
